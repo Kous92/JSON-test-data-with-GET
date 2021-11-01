@@ -2,50 +2,55 @@
     "goalkeepers": [
         {
             "name": "Keylor NAVAS",
-            "number": "1",
+            "number": 1,
             "country": "Costa Rica",
             "size": 185,
             "weight": 80,
             "birthDate": "16/12/1986",
+            "goals": 0,
             "matches": 90,
             "fromPSGformation": false
         },
         {
             "name": "Sergio RICO",
-            "number": "16",
+            "number": 16,
             "country": "Espagne",
             "size": 196,
             "weight": 90,
             "birthDate": "01/09/1993",
+            "goals": 0,
             "matches": 13,
             "fromPSGformation": false
         },
         {
             "name": "Denis FRANCHI",
-            "number": "40",
+            "number": 40,
             "country": "Italie",
             "size": 189,
             "weight": 81,
             "birthDate": "22/02/2002",
+            "goals": 0,
             "matches": 0,
             "fromPSGformation": true
         },
         {
             "name": "Gianluigi DONNARUMMA",
-            "number": "50",
+            "number": 50,
             "country": "Italie",
             "size": 196,
             "weight": 90,
             "birthDate": "25/02/1999",
+            "goals": 0,
             "matches": 6,
             "fromPSGformation": false
         },{
             "name": "Alexandre LETELLIER",
-            "number": "60",
+            "number": 60,
             "country": "France",
             "size": 193,
             "weight": 93,
             "birthDate": "11/10/1990",
+            "goals": 0,
             "matches": 0,
             "fromPSGformation": true
         }
@@ -53,7 +58,7 @@
     "defenders": [
         {
             "name": "Achraf HAKIMI",
-            "number": "2",
+            "number": 2,
             "country": "Maroc",
             "size": 181,
             "weight": 73,
@@ -65,7 +70,7 @@
         },
         {
             "name": "Presnel KIMPEMBE",
-            "number": "3",
+            "number": 3,
             "country": "France",
             "size": 183,
             "weight": 77,
@@ -77,7 +82,7 @@
         },
         {
             "name": "Sergio RAMOS",
-            "number": "4",
+            "number": 4,
             "country": "Espagne",
             "size": 184,
             "weight": 82,
@@ -89,7 +94,7 @@
         },
         {
             "name": "MARQUINHOS",
-            "number": "5",
+            "number": 5,
             "country": "Brésil",
             "size": 183,
             "weight": 75,
@@ -101,7 +106,7 @@
         },
         {
             "name": "Juan BERNAT",
-            "number": "14",
+            "number": 14,
             "country": "Espagne",
             "size": 177,
             "weight": 67,
@@ -113,7 +118,7 @@
         },
         {
             "name": "Colin DAGBA",
-            "number": "17",
+            "number": 17,
             "country": "France",
             "size": 170,
             "weight": 62,
@@ -125,7 +130,7 @@
         },
         {
             "name": "Layvin KURZAWA",
-            "number": "20",
+            "number": 20,
             "country": "France",
             "size": 182,
             "weight": 74,
@@ -137,7 +142,7 @@
         },
         {
             "name": "Abdou DIALLO",
-            "number": "22",
+            "number": 22,
             "country": "Sénégal",
             "size": 187,
             "weight": 79,
@@ -149,7 +154,7 @@
         },
         {
             "name": "Thilo KEHRER",
-            "number": "24",
+            "number": 24,
             "country": "Allemagne",
             "size": 186,
             "weight": 76,
@@ -161,7 +166,7 @@
         },
         {
             "name": "Nuno MENDES",
-            "number": "25",
+            "number": 25,
             "country": "Portugal",
             "size": 176,
             "weight": 70,
@@ -173,7 +178,7 @@
         },
         {
             "name": "El Chadaille BITSHIABU",
-            "number": "31",
+            "number": 31,
             "country": "France",
             "size": 196,
             "weight": 100,
@@ -185,7 +190,7 @@
         },
         {
             "name": "Teddy ALLOH",
-            "number": "32",
+            "number": 32,
             "country": "France",
             "size": 182,
             "weight": 74,
@@ -199,7 +204,7 @@
     "midfielders": [
         {
             "name": "Marco VERRATTI",
-            "number": "6",
+            "number": 6,
             "country": "Italie",
             "size": 165,
             "weight": 50,
@@ -211,7 +216,7 @@
         },
         {
             "name": "Leandro PAREDES",
-            "number": "8",
+            "number": 8,
             "country": "Argentine",
             "size": 180,
             "weight": 75,
@@ -223,7 +228,7 @@
         },
         {
             "name": "Ángel DI MARÍA",
-            "number": "11",
+            "number": 11,
             "country": "Argentine",
             "size": 180,
             "weight": 75,
@@ -235,7 +240,7 @@
         },
         {
             "name": "RAFINHA",
-            "number": "12",
+            "number": 12,
             "country": "Brésil",
             "size": 174,
             "weight": 71,
@@ -247,7 +252,7 @@
         },
         {
             "name": "Danilo PEREIRA",
-            "number": "15",
+            "number": 15,
             "country": "Portugal",
             "size": 188,
             "weight": 83,
@@ -259,7 +264,7 @@
         },
         {
             "name": "Georginio WIJNALDUM",
-            "number": "18",
+            "number": 18,
             "country": "Pays-Bas",
             "size": 175,
             "weight": 74,
@@ -271,7 +276,7 @@
         },
         {
             "name": "Ander HERRERA",
-            "number": "21",
+            "number": 21,
             "country": "Espagne",
             "size": 182,
             "weight": 71,
@@ -283,7 +288,7 @@
         },
         {
             "name": "Julian DRAXLER",
-            "number": "23",
+            "number": 23,
             "country": "Allemagne",
             "size": 185,
             "weight": 72,
@@ -295,7 +300,7 @@
         },
         {
             "name": "Idrissa Gana GUEYE",
-            "number": "27",
+            "number": 27,
             "country": "Sénégal",
             "size": 174,
             "weight": 66,
@@ -306,7 +311,7 @@
             "fromPSGformation": false
         },{
             "name": "Eric Junior DINA-EBIMBE",
-            "number": "28",
+            "number": 28,
             "country": "France",
             "size": 183,
             "weight": 81,
@@ -318,7 +323,7 @@
         },
         {
             "name": "Xavi SIMONS",
-            "number": "34",
+            "number": 34,
             "country": "Pays-Bas",
             "size": 168,
             "weight": 58,
@@ -330,7 +335,7 @@
         },
         {
             "name": "Ismaël GHARBI",
-            "number": "35",
+            "number": 35,
             "country": "France",
             "size": 173,
             "weight": 63,
@@ -342,7 +347,7 @@
         },
         {
             "name": "Édouard MICHUT",
-            "number": "38",
+            "number": 38,
             "country": "France",
             "size": 178,
             "weight": 65,
@@ -354,7 +359,7 @@
         },
         {
             "name": "Nathan BITUMZALA",
-            "number": "39",
+            "number": 39,
             "country": "France",
             "size": 178,
             "weight": 68,
@@ -368,46 +373,50 @@
     "forwards": [
         {
             "name": "Kylian MBAPPÉ",
-            "number": "7",
+            "number": 7,
             "country": "France",
             "size": 178,
             "weight": 73,
             "birthDate": "20/12/1998",
             "position": "Attaquant",
             "goals": 138,
+            "matches": 184,
             "fromPSGformation": false
         },
         {
             "name": "Mauro ICARDI",
-            "number": "9",
+            "number": 9,
             "country": "Argentine",
             "size": 181,
             "weight": 75,
             "birthDate": "19/02/1993",
             "position": "Avant-centre",
             "goals": 36,
+            "matches": 73,
             "fromPSGformation": false
         },
         {
             "name": "Neymar Jr.",
-            "number": "10",
+            "number": 10,
             "country": "Brésil",
             "size": 175,
             "weight": 68,
             "birthDate": "05/02/1992",
             "position": "Attaquant",
             "goals": 88,
+            "matches": 124,
             "fromPSGformation": false
         },
         {
             "name": "Lionel MESSI",
-            "number": "30",
+            "number": 30,
             "country": "Argentine",
             "size": 169,
             "weight": 67,
             "birthDate": "24/06/1987",
             "position": "Attaquant",
             "goals": 3,
+            "matches": 8,
             "fromPSGformation": false
         }
     ]

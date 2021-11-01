@@ -1,0 +1,409 @@
+{
+    "goalkeepers": [
+        {
+            "name": "Keylor NAVAS",
+            "number": "1",
+            "country": "Costa Rica",
+            "size": 185,
+            "weight": 80,
+            "birthDate": "16/12/1986",
+            "fromPSGformation": false
+        },
+        {
+            "name": "Sergio RICO",
+            "number": "16",
+            "country": "Espagne",
+            "size": 196,
+            "weight": 90,
+            "birthDate": "01/09/1993",
+            "fromPSGformation": false
+        },
+        {
+            "name": "Denis FRANCHI",
+            "number": "40",
+            "country": "Italie",
+            "size": 189,
+            "weight": 81,
+            "birthDate": "22/02/2002",
+            "fromPSGformation": true
+        },
+        {
+            "name": "Gianluigi DONNARUMMA",
+            "number": "50",
+            "country": "Italie",
+            "size": 196,
+            "weight": 90,
+            "birthDate": "25/02/1999",
+            "fromPSGformation": false
+        },{
+            "name": "Alexandre LETELLIER",
+            "number": "60",
+            "country": "France",
+            "size": 193,
+            "weight": 93,
+            "birthDate": "11/10/1990",
+            "fromPSGformation": true
+        }
+    ],
+    "defenders": [
+        {
+            "name": "Achraf HAKIMI",
+            "number": "2",
+            "country": "Maroc",
+            "size": 181,
+            "weight": 73,
+            "birthDate": "04/11/1998",
+            "position": "Latéral droit",
+            "goals": 3,
+            "matches": 15,
+            "fromPSGformation": false
+        },
+        {
+            "name": "Presnel KIMPEMBE",
+            "number": "3",
+            "country": "France",
+            "size": 183,
+            "weight": 77,
+            "birthDate": "13/08/1995",
+            "position": "Défenseur central",
+            "goals": 1,
+            "matches": 195,
+            "fromPSGformation": true
+        },
+        {
+            "name": "Sergio RAMOS",
+            "number": "4",
+            "country": "Espagne",
+            "size": 184,
+            "weight": 82,
+            "birthDate": "30/03/1986",
+            "position": "Défenseur central",
+            "goals": 0,
+            "matches": 0,
+            "fromPSGformation": false
+        },
+        {
+            "name": "MARQUINHOS",
+            "number": "5",
+            "country": "Brésil",
+            "size": 183,
+            "weight": 75,
+            "birthDate": "14/05/1994",
+            "position": "Défenseur central",
+            "goals": 32,
+            "matches": 334,
+            "fromPSGformation": false
+        },
+        {
+            "name": "Juan BERNAT",
+            "number": "14",
+            "country": "Espagne",
+            "size": 177,
+            "weight": 67,
+            "birthDate": "01/03/1993",
+            "position": "Latéral gauche",
+            "goals": 6,
+            "matches": 76,
+            "fromPSGformation": false
+        },
+        {
+            "name": "Colin DAGBA",
+            "number": "17",
+            "country": "France",
+            "size": 170,
+            "weight": 62,
+            "birthDate": "09/09/1998",
+            "position": "Défenseur",
+            "goals": 1,
+            "matches": 71,
+            "fromPSGformation": true
+        },
+        {
+            "name": "Layvin KURZAWA",
+            "number": "20",
+            "country": "France",
+            "size": 182,
+            "weight": 74,
+            "birthDate": "09/09/1998",
+            "position": "Latéral gauche",
+            "goals": 14,
+            "matches": 153,
+            "fromPSGformation": false
+        },
+        {
+            "name": "Abdou DIALLO",
+            "number": "22",
+            "country": "Sénégal",
+            "size": 187,
+            "weight": 79,
+            "birthDate": "04/05/1996",
+            "position": "Défenseur central",
+            "goals": 0,
+            "matches": 67,
+            "fromPSGformation": false
+        },
+        {
+            "name": "Thilo KEHRER",
+            "number": "24",
+            "country": "Allemagne",
+            "size": 186,
+            "weight": 76,
+            "birthDate": "21/09/1996",
+            "position": "Défenseur",
+            "goals": 2,
+            "matches": 103,
+            "fromPSGformation": false
+        },
+        {
+            "name": "Nuno MENDES",
+            "number": "25",
+            "country": "Portugal",
+            "size": 176,
+            "weight": 70,
+            "birthDate": "19/06/2002",
+            "position": "Latéral gauche",
+            "goals": 0,
+            "matches": 6,
+            "fromPSGformation": false
+        },
+        {
+            "name": "El Chadaille BITSHIABU",
+            "number": "31",
+            "country": "France",
+            "size": 196,
+            "weight": 100,
+            "birthDate": "16/05/2005",
+            "position": "Défenseur central",
+            "goals": 0,
+            "matches": 0,
+            "fromPSGformation": true
+        },
+        {
+            "name": "Teddy ALLOH",
+            "number": "32",
+            "country": "France",
+            "size": 182,
+            "weight": 74,
+            "birthDate": "23/01/2002",
+            "position": "Latéral gauche",
+            "goals": 0,
+            "matches": 0,
+            "fromPSGformation": true
+        }
+    ],
+    "midfielders": [
+        {
+            "name": "Marco VERRATTI",
+            "number": "6",
+            "country": "Italie",
+            "size": 165,
+            "weight": 50,
+            "birthDate": "05/11/1992",
+            "position": "Milieu",
+            "goals": 9,
+            "matches": 352,
+            "fromPSGformation": false
+        },
+        {
+            "name": "Leandro PAREDES",
+            "number": "8",
+            "country": "Argentine",
+            "size": 180,
+            "weight": 75,
+            "birthDate": "29/06/1994",
+            "position": "Milieu",
+            "goals": 2,
+            "matches": 92,
+            "fromPSGformation": false
+        },
+        {
+            "name": "Ángel DI MARÍA",
+            "number": "11",
+            "country": "Argentine",
+            "size": 180,
+            "weight": 75,
+            "birthDate": "14/02/1998",
+            "position": "Milieu offensif",
+            "goals": 89,
+            "matches": 272,
+            "fromPSGformation": false
+        },
+        {
+            "name": "RAFINHA",
+            "number": "12",
+            "country": "Brésil",
+            "size": 174,
+            "weight": 71,
+            "birthDate": "12/02/1993",
+            "position": "Milieu offensif",
+            "goals": 0,
+            "matches": 38,
+            "fromPSGformation": false
+        },
+        {
+            "name": "Danilo PEREIRA",
+            "number": "15",
+            "country": "Portugal",
+            "size": 188,
+            "weight": 83,
+            "birthDate": "09/09/1991",
+            "position": "Milieu défensif",
+            "goals": 3,
+            "matches": 53,
+            "fromPSGformation": false
+        },
+        {
+            "name": "Georginio WIJNALDUM",
+            "number": "18",
+            "country": "Pays-Bas",
+            "size": 175,
+            "weight": 74,
+            "birthDate": "23/01/2002",
+            "position": "Milieu",
+            "goals": 0,
+            "matches": 14,
+            "fromPSGformation": false
+        },
+        {
+            "name": "Ander HERRERA",
+            "number": "21",
+            "country": "Espagne",
+            "size": 182,
+            "weight": 71,
+            "birthDate": "14/08/1989",
+            "position": "Milieu",
+            "goals": 6,
+            "matches": 81,
+            "fromPSGformation": false
+        },
+        {
+            "name": "Julian DRAXLER",
+            "number": "23",
+            "country": "Allemagne",
+            "size": 185,
+            "weight": 72,
+            "birthDate": "20/09/1993",
+            "position": "Milieu offensif",
+            "goals": 26,
+            "matches": 185,
+            "fromPSGformation": false
+        },
+        {
+            "name": "Idrissa Gana GUEYE",
+            "number": "27",
+            "country": "Sénégal",
+            "size": 174,
+            "weight": 66,
+            "birthDate": "26/09/1989",
+            "position": "Milieu défensif",
+            "goals": 7,
+            "matches": 87,
+            "fromPSGformation": false
+        },{
+            "name": "Eric Junior DINA-EBIMBE",
+            "number": "28",
+            "country": "France",
+            "size": 183,
+            "weight": 81,
+            "birthDate": "21/11/2000",
+            "position": "Milieu",
+            "goals": 0,
+            "matches": 5,
+            "fromPSGformation": true
+        },
+        {
+            "name": "Xavi SIMONS",
+            "number": "34",
+            "country": "Pays-Bas",
+            "size": 168,
+            "weight": 58,
+            "birthDate": "21/04/2003",
+            "position": "Milieu",
+            "goals": 0,
+            "matches": 2,
+            "fromPSGformation": true
+        },
+        {
+            "name": "Ismaël GHARBI",
+            "number": "35",
+            "country": "France",
+            "size": 173,
+            "weight": 63,
+            "birthDate": "10/04/2004",
+            "position": "Milieu",
+            "goals": 0,
+            "matches": 1,
+            "fromPSGformation": true
+        },
+        {
+            "name": "Édouard MICHUT",
+            "number": "38",
+            "country": "France",
+            "size": 178,
+            "weight": 65,
+            "birthDate": "04/03/2003",
+            "position": "Milieu",
+            "goals": 0,
+            "matches": 1,
+            "fromPSGformation": true
+        },
+        {
+            "name": "Nathan BITUMZALA",
+            "number": "39",
+            "country": "France",
+            "size": 178,
+            "weight": 68,
+            "birthDate": "10/12/2002",
+            "position": "Milieu défensif",
+            "goals": 0,
+            "matches": 1,
+            "fromPSGformation": true
+        }
+    ],
+    "forwards": [
+        {
+            "name": "Kylian MBAPPÉ",
+            "number": "7",
+            "country": "France",
+            "size": 178,
+            "weight": 73,
+            "birthDate": "20/12/1998",
+            "position": "Attaquant",
+            "goals": 138,
+            "fromPSGformation": false
+        },
+        {
+            "name": "Mauro ICARDI",
+            "number": "9",
+            "country": "Argentine",
+            "size": 181,
+            "weight": 75,
+            "birthDate": "19/02/1993",
+            "position": "Avant-centre",
+            "goals": 36,
+            "fromPSGformation": false
+        },
+        {
+            "name": "Neymar Jr.",
+            "number": "10",
+            "country": "Brésil",
+            "size": 175,
+            "weight": 68,
+            "birthDate": "05/02/1992",
+            "position": "Attaquant",
+            "goals": 88,
+            "fromPSGformation": false
+        },
+        {
+            "name": "Lionel MESSI",
+            "number": "30",
+            "country": "Argentine",
+            "size": 169,
+            "weight": 67,
+            "birthDate": "24/06/1987",
+            "position": "Attaquant",
+            "goals": 3,
+            "fromPSGformation": false
+        }
+    ]
+}

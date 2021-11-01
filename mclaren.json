@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "carName": "F1",
+        "engine": {
+            "type": "V12 atmosphérique",
+            "cylinder": "6,1 litres",
+            "power": 627,
+            "torque": 500
+        },
+        "performance": {
+            "acceleration": 3.2,
+            "topSpeed": 391
+        },
+        "year": 1992,
+        "price": 0
+    }
+]

@@ -7,6 +7,7 @@
             "size": 185,
             "weight": 80,
             "birthDate": "16/12/1986",
+            "matches": 90,
             "fromPSGformation": false
         },
         {
@@ -16,6 +17,7 @@
             "size": 196,
             "weight": 90,
             "birthDate": "01/09/1993",
+            "matches": 13,
             "fromPSGformation": false
         },
         {
@@ -25,6 +27,7 @@
             "size": 189,
             "weight": 81,
             "birthDate": "22/02/2002",
+            "matches": 0,
             "fromPSGformation": true
         },
         {
@@ -34,6 +37,7 @@
             "size": 196,
             "weight": 90,
             "birthDate": "25/02/1999",
+            "matches": 6,
             "fromPSGformation": false
         },{
             "name": "Alexandre LETELLIER",
@@ -42,6 +46,7 @@
             "size": 193,
             "weight": 93,
             "birthDate": "11/10/1990",
+            "matches": 0,
             "fromPSGformation": true
         }
     ],

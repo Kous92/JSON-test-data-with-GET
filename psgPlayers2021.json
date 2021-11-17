@@ -1,5 +1,5 @@
 {
-    "goalkeepers": [
+    "players": [
         {
             "id": 1,
             "name": "Keylor NAVAS",
@@ -8,6 +8,7 @@
             "size": 185,
             "weight": 80,
             "birthDate": "16/12/1986",
+            "position": "Gardien de but",
             "goals": 0,
             "matches": 90,
             "fromPSGformation": false,
@@ -21,6 +22,7 @@
             "size": 196,
             "weight": 90,
             "birthDate": "01/09/1993",
+            "position": "Gardien de but",
             "goals": 0,
             "matches": 13,
             "fromPSGformation": false,
@@ -34,6 +36,7 @@
             "size": 189,
             "weight": 81,
             "birthDate": "22/02/2002",
+            "position": "Gardien de but",
             "goals": 0,
             "matches": 0,
             "fromPSGformation": true,
@@ -47,6 +50,7 @@
             "size": 196,
             "weight": 90,
             "birthDate": "25/02/1999",
+            "position": "Gardien de but",
             "goals": 0,
             "matches": 7,
             "fromPSGformation": false,
@@ -60,13 +64,12 @@
             "size": 193,
             "weight": 93,
             "birthDate": "11/10/1990",
+            "position": "Gardien de but",
             "goals": 0,
             "matches": 0,
             "fromPSGformation": true,
             "imageURL": "https://images.psg.media/media/187968/hero_21-22_letellier.png?center=0.5,0.5&mode=crop&width=800&height=800&quality=80"
-        }
-    ],
-    "defenders": [
+        },
         {
             "id": 6,
             "name": "Achraf HAKIMI",
@@ -234,9 +237,7 @@
             "matches": 0,
             "fromPSGformation": true,
             "imageURL": "https://images.psg.media/media/210210/hero_21-22_alloh.png?center=0.5,0.5&mode=crop&width=800&height=800&quality=80"
-        }
-    ],
-    "midfielders": [
+        },
         {
             "id": 18,
             "name": "Marco VERRATTI",
@@ -432,9 +433,7 @@
             "matches": 1,
             "fromPSGformation": true,
             "imageURL": "https://images.psg.media/media/210207/hero_21-22_bitumazala.png?center=0.5,0.5&mode=crop&width=800&height=800&quality=80"
-        }
-    ],
-    "forwards": [
+        },
         {
             "id": 32,
             "name": "Kylian MBAPPÉ",

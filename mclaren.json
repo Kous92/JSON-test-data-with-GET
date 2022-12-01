@@ -1,18 +1,47 @@
-[
-    {
-        "id": 1,
-        "carName": "F1",
-        "engine": {
-            "type": "V12 atmosphérique",
-            "cylinder": "6,1 litres",
-            "power": 627,
-            "torque": 500
-        },
-        "performance": {
-            "acceleration": 3.2,
-            "topSpeed": 391
-        },
-        "year": 1992,
-        "price": 0
-    }
-]
+{
+    "cars": [
+        {
+            "carName": "F1",
+            "carType": "road",
+            "engine": {
+                "alignment": "V12",
+                "engineType": "atmospheric",
+                "hybrid": false,
+                "cylinderVolume": 6.1,
+                "power": 627,
+                "maxPowerAt": 7500,
+                "torque": 652,
+                "maxTorqueAt": 5600,
+                "redlineRPM": 7500
+            },
+            "performance": {
+                "acceleration": 3.2,
+                "topSpeed": 391
+            },
+            "transmission": {
+                "gearboxType": "manual",
+                "traction": "RWD", 
+                "gears": 6
+            },
+            "weight": 1138,
+            "fuelTankCapacity": 90,
+            "averageFuelConsumption": 19.2,
+            "year": 1992,
+            "price": 1220000,
+            "examples": 69,
+            "image": "https://mclaren.scene7.com/is/image/mclaren/MSO-Heritage-1920x1080:crop-16x9?wid=1980&hei=1114",
+            "imageGallery": [
+                "https://mclaren.scene7.com/is/image/mclaren/MSO-Heritage-1920x1080:crop-16x9?wid=1980&hei=1114",
+                "https://mclaren.scene7.com/is/image/mclaren/McLaren-F1-Hero-1920x1080:crop-16x9?wid=1980&hei=1114",
+                "https://mclaren.scene7.com/is/image/mclaren/McLaren-F1-1200x1200:crop-4x3?wid=1920&hei=1440",
+                "http://www.designmoteur.com/wp-content/uploads/McLaren-F1-face-avant-portes-ouvertes.jpg",
+                "http://www.designmoteur.com/wp-content/uploads/McLaren-F1-profil-arriere.jpg",
+                "https://thespun.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTg3NDI1NTczMzM2NTI0NTU5/mclaren-f1-new-york-media-preview.jpg"
+            ],
+            "description": {
+                "en": "",
+                "fr": "La McLaren F1, une voiture d'exception, inspirée des technologies sophistiquées de la Formule 1 des années 80-90. Légendaire par sa performance mémorable en 1998 où le record absolu de vitesse atteignait 391 km/h !!!"
+            }
+        }
+    ]
+}
